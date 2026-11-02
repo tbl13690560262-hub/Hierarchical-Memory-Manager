@@ -28,9 +28,8 @@ Hierarchical-Memory-Manager/
 ├── EXPERIMENT_REPORT.md
 ├── README.md
 ├── .gitignore
-└── results/
-    ├── evaluation_results.csv
-    └── independent_results.csv
+├── evaluation_results.csv
+└── independent_results.csv
 ```
 
 The personal `memories.json` file is excluded from version control.
@@ -56,7 +55,7 @@ No third-party packages are required.
 Clone the repository and enter the project directory:
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/tbl13690560262-hub/Hierarchical-Memory-Manager.git
 cd Hierarchical-Memory-Manager
 ```
 
