@@ -200,7 +200,7 @@ if __name__ == "__main__":
         print("5. Delete Memory")
         print("6. Exit")
 
-        choice = input("Choose an option (1-4): ")
+        choice = input("Choose an option (1-6): ")
 
         if choice == "1":
             category = input("Enter category: ")
