@@ -1,0 +1,26 @@
+Query,Method,Precision,Recall,F1
+learning C++,Baseline,1.0,1.0,1.0
+learning C++,Ranked,0.333,1.0,0.5
+learning C++,Token,0.333,1.0,0.5
+learning C++,Strict Token,1.0,1.0,1.0
+learning C++,Concept Expansion,1.0,1.0,1.0
+weekly coding,Baseline,0,0.0,0
+weekly coding,Ranked,1.0,1.0,1.0
+weekly coding,Token,1.0,1.0,1.0
+weekly coding,Strict Token,0,0.0,0
+weekly coding,Concept Expansion,0,0.0,0
+university education,Baseline,0,0.0,0
+university education,Ranked,0.333,1.0,0.5
+university education,Token,0.333,1.0,0.5
+university education,Strict Token,1.0,1.0,1.0
+university education,Concept Expansion,0,0.0,0
+AI agent papers,Baseline,0,0.0,0
+AI agent papers,Ranked,0.667,1.0,0.8
+AI agent papers,Token,0.667,1.0,0.8
+AI agent papers,Strict Token,0,0.0,0
+AI agent papers,Concept Expansion,0,0.0,0
+Git version control,Baseline,0,0.0,0
+Git version control,Ranked,1.0,1.0,1.0
+Git version control,Token,1.0,1.0,1.0
+Git version control,Strict Token,1.0,1.0,1.0
+Git version control,Concept Expansion,0,0.0,0

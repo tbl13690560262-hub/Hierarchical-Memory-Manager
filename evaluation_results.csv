@@ -1,0 +1,56 @@
+Query,Method,Precision,Recall,F1
+python programming,Baseline,0,0.0,0
+python programming,Ranked,0.667,0.667,0.667
+python programming,Token,0.667,0.667,0.667
+python programming,Strict Token,1.0,0.667,0.8
+python programming,Concept Expansion,0,0.0,0
+machine learning,Baseline,1.0,0.2,0.333
+machine learning,Ranked,1.0,0.6,0.75
+machine learning,Token,1.0,0.6,0.75
+machine learning,Strict Token,1.0,0.6,0.75
+machine learning,Concept Expansion,1.0,0.6,0.75
+research papers,Baseline,1.0,0.5,0.667
+research papers,Ranked,0.667,1.0,0.8
+research papers,Token,0.667,1.0,0.8
+research papers,Strict Token,1.0,1.0,1.0
+research papers,Concept Expansion,1.0,0.5,0.667
+AI memory,Baseline,1.0,0.5,0.667
+AI memory,Ranked,0.333,0.5,0.4
+AI memory,Token,0.667,1.0,0.8
+AI memory,Strict Token,1.0,0.5,0.667
+AI memory,Concept Expansion,1.0,0.5,0.667
+data structures,Baseline,1.0,1.0,1.0
+data structures,Ranked,0.5,1.0,0.667
+data structures,Token,0.5,1.0,0.667
+data structures,Strict Token,1.0,1.0,1.0
+data structures,Concept Expansion,1.0,1.0,1.0
+version control,Baseline,1.0,1.0,1.0
+version control,Ranked,1.0,1.0,1.0
+version control,Token,1.0,1.0,1.0
+version control,Strict Token,1.0,1.0,1.0
+version control,Concept Expansion,1.0,1.0,1.0
+git,Baseline,1.0,1.0,1.0
+git,Ranked,1.0,1.0,1.0
+git,Token,1.0,1.0,1.0
+git,Strict Token,1.0,1.0,1.0
+git,Concept Expansion,1.0,1.0,1.0
+deep learning,Baseline,0,0.0,0
+deep learning,Ranked,0.0,0.0,0
+deep learning,Token,0.0,0.0,0
+deep learning,Strict Token,0,0.0,0
+deep learning,Concept Expansion,1.0,1.0,1.0
+coding practice,Baseline,0,0.0,0
+coding practice,Ranked,0.5,1.0,0.667
+coding practice,Token,0.5,1.0,0.667
+coding practice,Strict Token,1.0,1.0,1.0
+coding practice,Concept Expansion,0,0.0,0
+source control,Baseline,0,0.0,0
+source control,Ranked,1.0,1.0,1.0
+source control,Token,1.0,1.0,1.0
+source control,Strict Token,0,0.0,0
+source control,Concept Expansion,1.0,1.0,1.0
+AI agents,Baseline,1.0,1.0,1.0
+AI agents,Ranked,0.333,1.0,0.5
+AI agents,Token,0.5,1.0,0.667
+AI agents,Strict Token,1.0,1.0,1.0
+AI agents,Concept Expansion,1.0,1.0,1.0
